@@ -1,0 +1,213 @@
+/* Color */
+
+/* Lorem Ipsum */
+.c-primary {
+	color: #1d4ed8;
+}
+
+.c-surface {
+	color: #dbeafe;
+}
+
+.c-border {
+	color: #93c5fd;
+}
+
+.c-pressed {
+	color: #312e81;
+}
+
+/* Neutral */
+
+.c-neutral-50 {
+	color: #fafafa;
+}
+
+.c-neutral-100 {
+	color: #f5f5f4;
+}
+
+.c-neutral-200 {
+	color: #e7e5e4;
+}
+
+.c-neutral-300 {
+	color: #d6d3d1;
+}
+
+.c-neutral-400 {
+	color: #a3a3a3;
+}
+
+.c-neutral-500 {
+	color: #737373;
+}
+
+.c-neutral-600 {
+	color: #525252;
+}
+
+.c-neutral-700 {
+	color: #404040;
+}
+
+.c-neutral-800 {
+	color: #262626;
+}
+
+.c-neutral-900 {
+	color: #171717;
+}
+
+.c-neutral-950 {
+	color: #0a0a0a;
+}
+
+/* Background */
+.bg-primary {
+	background-color: #1d4ed8;
+}
+
+.bg-surface {
+	background-color: #dbeafe;
+}
+
+.bg-border {
+	background-color: #93c5fd;
+}
+
+.bg-pressed {
+	background-color: #312e81;
+}
+
+/* Neutral */
+
+.bg-neutral-50 {
+	background-color: #fafafa;
+}
+
+.bg-neutral-100 {
+	background-color: #f5f5f4;
+}
+
+.bg-neutral-200 {
+	background-color: #e7e5e4;
+}
+
+.bg-neutral-300 {
+	background-color: #d6d3d1;
+}
+
+.bg-neutral-400 {
+	background-color: #a3a3a3;
+}
+
+.bg-neutral-500 {
+	background-color: #737373;
+}
+
+.bg-neutral-600 {
+	background-color: #525252;
+}
+
+.bg-neutral-700 {
+	background-color: #404040;
+}
+
+.bg-neutral-800 {
+	background-color: #262626;
+}
+
+.bg-neutral-900 {
+	background-color: #171717;
+}
+
+.bg-neutral-950 {
+	background-color: #0a0a0a;
+}
+
+/* F O N T  */
+
+@font-face {
+	font-family: "Comic-Neue";
+	src: url("./../assets/font/ComicNeue-Regular.ttf");
+}
+
+/* FONT WEIGHT */
+
+.font-thin {
+	font-weight: 100;
+}
+
+.font-light {
+	font-weight: 300;
+}
+
+.font-normal {
+	font-weight: 400;
+}
+
+.font-semibold {
+	font-weight: 600;
+}
+
+.font-bold {
+	font-weight: 700;
+}
+
+/* FONT SIZE */
+
+.text-xs {
+	font-size: 0.75rem; /* 12px */
+	line-height: 1rem; /* 16px */
+}
+
+.text-sm {
+	font-size: 0.875rem; /* 14px */
+	line-height: 1.25rem; /* 20px */
+}
+
+.text-base {
+	font-size: 1rem; /* 16px */
+	line-height: 1.5rem; /* 24px */
+}
+.text-lg {
+	font-size: 1.125rem; /* 18px */
+	line-height: 1.75rem; /* 28px */
+}
+.text-xl {
+	font-size: 1.25rem; /* 20px */
+	line-height: 1.75rem; /* 28px */
+}
+.text-2xl {
+	font-size: 1.5rem; /* 24px */
+	line-height: 2rem; /* 32px */
+}
+.text-3xl {
+	font-size: 1.875rem; /* 30px */
+	line-height: 2.25rem; /* 36px */
+}
+.text-4xl {
+	font-size: 2.25rem; /* 36px */
+	line-height: 2.5rem; /* 40px */
+}
+.text-5xl {
+	font-size: 3rem; /* 48px */
+	line-height: 1;
+}
+.text-6xl {
+	font-size: 3.75rem; /* 60px */
+	line-height: 1;
+}
+.text-7xl {
+	font-size: 4.5rem; /* 72px */
+	line-height: 1;
+}
+.text-8xl {
+	font-size: 6rem; /* 96px */
+	line-height: 1;
+}
+.text-9xl {
+	font-size: 8rem; /* 128px */
+	line-height: 1;
+}

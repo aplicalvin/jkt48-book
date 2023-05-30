@@ -1,0 +1,12 @@
+@font-face {
+	font-family: "Comic-Neue";
+	src: url("./../assets/font/ComicNeue-Regular.ttf");
+}
+
+* {
+	font-family: "Comic-Neue";
+}
+
+.cekbang {
+	border: 1px solid red;
+}
